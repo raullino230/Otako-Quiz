@@ -1,0 +1,16 @@
+.img1 {
+  
+  
+}
+
+.img2 {
+
+  display: flex;       
+  gap: 10px;            
+  justify-content: center;
+  align-items: center;  
+  width: 150px;  
+  height: auto; 
+  
+  
+}

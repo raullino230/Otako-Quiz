@@ -1,0 +1,7 @@
+.img1 {
+  display: block;      /* faz a imagem começar em uma nova linha */
+  margin: 10px auto;   /* centraliza horizontalmente */
+  width: 150px;        /* ajusta o tamanho da imagem */
+  height: auto;  
+        /* mantém proporção */
+}

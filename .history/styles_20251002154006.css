@@ -1,0 +1,25 @@
+* {
+  text-align: center;
+  background-color: #c0c0c0;
+}
+.pergunta {
+  margin: 20px;
+}
+
+.opcoes {
+  display: flex;        /* coloca as imagens lado a lado */
+  gap: 20px;            /* espaço entre elas */
+  margin-bottom: 10px;
+    /* espaço antes do input */
+  justify-content: center; /* centraliza as imagens */
+  mix-blend-mode: multiply; 
+}
+
+.opcoes div {
+  text-align: center;
+}
+
+.resposta input {
+  width: 250px;
+  padding: 5px;
+}

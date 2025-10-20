@@ -1,0 +1,26 @@
+.img1 {
+  display: inline-block;       
+  margin: 10px auto;  
+  width: 150px;       
+  height: auto;  
+  
+}
+
+.img2 {
+
+  display: flex;       
+  gap: 10px;            
+  justify-content: center;
+  align-items: center;  
+
+
+
+  width: 150px;  
+  height: auto;  /* Mantém a proporção */
+
+ 
+  margin: 10px auto;  
+  width: 150px;       
+  height: auto;  
+  
+}

@@ -1,0 +1,18 @@
+.container-imagens {
+  display: flex; /* Posiciona os itens lado a lado */
+  gap: 50px; /* Adiciona um espaço entre as imagens, opcional */
+}
+
+.container-imagens img {
+  width: 150px; /* Define a largura da imagem, opcional */
+  height: auto; /* Mantém a proporção da imagem, opcional */
+}
+
+.container-imagens figure {
+  text-align: center; /* Centraliza a imagem e a legenda */
+  margin: 0; /* Remove margem padrão, se necessário */
+}
+
+.resposta4 {
+  dis
+}

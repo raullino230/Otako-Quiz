@@ -1,0 +1,26 @@
+.img1 {
+  display: inline-block;       
+  margin: 10px auto;  
+  width: 150px;       
+  height: auto;  
+  
+}
+
+.img2 {
+
+  display: flex;         /* Coloca as imagens em linha */
+  gap: 10px;             /* Espaço entre elas */
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center;   /* Alinha verticalmente */
+
+
+.imagens-container img {
+  width: 150px;  /* Ajusta o tamanho da imagem */
+  height: auto;  /* Mantém a proporção */
+}
+ 
+  margin: 10px auto;  
+  width: 150px;       
+  height: auto;  
+  
+}
